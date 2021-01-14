@@ -1,0 +1,36 @@
+.brand-logo img{
+    width: 350px;
+
+}
+.penguin-nav-bg{
+    background-color:  #fceae8;
+}
+.penguin-nav{
+    margin-left: 30%;
+}
+.saiful img{
+    width: 500px;
+    display:block;
+}
+.penguin-card{
+    border: 0;
+    border-radius: 1em;
+}
+.penguin-card img{
+    width: 300px;
+    height: 350px;
+    display: block;
+
+}
+.penguin-last-part img{
+    width:90px;
+}
+.penguin-card-footer img{
+    width: 30px;
+    height: 30px;
+    display: block;
+}
+
+h2{
+    font-weight: bold;
+}
